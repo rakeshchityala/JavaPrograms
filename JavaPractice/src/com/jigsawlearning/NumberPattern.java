@@ -1,4 +1,4 @@
-package JigSawLearning;
+package com.jigsawlearning;
 
 import java.util.Scanner;
 
